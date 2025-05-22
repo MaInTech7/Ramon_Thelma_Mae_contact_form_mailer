@@ -1,4 +1,4 @@
-# FINALS MCO/EXAM contact_form_mailer
+# FINALS MCO/EXAM Contact Form with Email Sending (PHP Mailer)
 
 # dbase
 ![Screenshot 2025-05-22 172405](https://github.com/user-attachments/assets/e34557ad-d769-4a50-9494-9e6758e570ac)
